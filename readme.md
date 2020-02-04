@@ -53,3 +53,7 @@ Ajouter dans la page liste-patients.php, un champs de recherche.
 ## Exercice 13
 
 Dans la page liste-patients.php, créer une pagination.
+
+## Exercice 14
+
+Créer une page ajout-patient-rendez-vous.php et y créer un formulaire permettant d'enregistrer simultanément un patient et un rendez vous.
